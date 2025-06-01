@@ -16,3 +16,7 @@ loss.py filter=lfs diff=lfs merge=lfs -text
 utils filter=lfs diff=lfs merge=lfs -text
 __pycache__ filter=lfs diff=lfs merge=lfs -text
 block.py filter=lfs diff=lfs merge=lfs -text
+aim_cmd.py filter=lfs diff=lfs merge=lfs -text
+c++_AutoAim_example filter=lfs diff=lfs merge=lfs -text
+无中心坐标的损失.png filter=lfs diff=lfs merge=lfs -text
+有中心坐标的损失.png filter=lfs diff=lfs merge=lfs -text
