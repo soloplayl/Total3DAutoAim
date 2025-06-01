@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/utils/cost_time.py;D:/Robomaster/aim/Total3DAutoAim/utils/generate_dataset.py;D:/Robomaster/aim/Total3DAutoAim/utils/hebing.py;D:/Robomaster/aim/Total3DAutoAim/utils/lianghua.py;D:/Robomaster/aim/Total3DAutoAim/utils/modeqianyi.py;D:/Robomaster/aim/Total3DAutoAim/utils/preprocess_cost_time.py;D:/Robomaster/aim/Total3DAutoAim/utils/preprocessing.py;D:/Robomaster/aim/Total3DAutoAim/utils/vision.py;D:/Robomaster/aim/Total3DAutoAim/block.py;D:/Robomaster/aim/Total3DAutoAim/Inference.py;D:/Robomaster/aim/Total3DAutoAim/loss.py;D:/Robomaster/aim/Total3DAutoAim/predicted.py;D:/Robomaster/aim/Total3DAutoAim/preprocessing.py;D:/Robomaster/aim/Total3DAutoAim/README.md;D:/Robomaster/aim/Total3DAutoAim/test.py;D:/Robomaster/aim/Total3DAutoAim/train.py" />
+  </component>
+</project>
